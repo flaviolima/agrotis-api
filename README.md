@@ -2,7 +2,6 @@
 
 Restful API com serviços de CREATE, READ, UPDATE e DELETE.
 
-## Como utilizar?
 Para realizar os testes, primeiro deve-se cadastrar uma **propriedade** e um **laboratório**.
 Em seguida, cadastrar, consultar, editar ou excluir um usuário.
 
