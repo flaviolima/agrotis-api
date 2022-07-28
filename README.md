@@ -154,6 +154,11 @@ Exemplo Request
 ## Insomnia test execution
 [screen-capture.webm](https://user-images.githubusercontent.com/8599639/181623679-f49ecc09-851f-4dd6-9b17-d1cd41935354.webm)
 
+## Unit tests execution
+Foram implmentados testes de unidade (casos triviais) para a classe **UserService.java**
+![Screen Shot 2022-07-28 at 16 47 34](https://user-images.githubusercontent.com/8599639/181624627-23553dbb-5a72-4d38-978c-3e7ba7b20130.png)
+
+
 
 
 
